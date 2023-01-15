@@ -8,16 +8,16 @@ This is a solution to the [landing page challenge on Odin Project](https://www.t
 
 ### Screenshot
 
-#MINE
+###MINE
 ![](./screenshots/Screenshot%20.png)
 
-#Intended Desing
+###Intended Desing
 ![](./intended-design.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://amani-dot.github.io/Landing-page-odin-project-/)
+- Live Site URL: (https://github.com/Amani-dot/Landing-page-odin-project-)
 
 ## My process
 
