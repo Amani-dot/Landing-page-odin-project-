@@ -9,10 +9,10 @@ This is a solution to the [landing page challenge on Odin Project](https://www.t
 ### Screenshot
 
 #MINE
-![](../screenshots/Screenshot%20.png)
+![](./screenshots/Screenshot%20.png)
 
 #Intended Desing
-![](../intended-design.png)
+![](./intended-design.png)
 
 ### Links
 
