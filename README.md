@@ -8,10 +8,10 @@ This is a solution to the [landing page challenge on Odin Project](https://www.t
 
 ### Screenshot
 
-###MINE
+###  MINE
 ![](./screenshots/Screenshot%20.png)
 
-###Intended Desing
+###  Intended Desing
 ![](./intended-design.png)
 
 ### Links
